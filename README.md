@@ -1,6 +1,19 @@
-# Mini E-commerce - Site de vente en PHP
+# 🛍️ Système de vente en ligne pour commerce local
 
-Un site e-commerce complet développé en PHP avec MySQL, offrant une interface moderne et responsive pour la gestion de produits et un système de panier.
+##  Contexte
+Dans le cadre d’un besoin réel, j’ai développé un site e-commerce pour une commerçante locale.
+Le problème principal était la perte de temps liée à la gestion manuelle des stocks : à chaque commande,
+il fallait vérifier physiquement la disponibilité des articles (modèles, tailles, etc.).
+
+##  Objectif du projet
+- Digitaliser la présentation des produits
+- Faciliter la prise de commandes en ligne
+- Réduire le temps perdu dans la vérification manuelle des articles
+- Tester la faisabilité d’une solution e-commerce pour un petit commerce
+
+##  Technologies utilisées
+- (PHP / MySQL )
+- Hébergement web gratuit (phase de test)
 
 ## 🚀 Fonctionnalités
 
@@ -201,6 +214,19 @@ $_SESSION['panier'][$produit_id] = [
 - [ ] Optimisation SEO
 - [ ] Cache et performances
 
+## 🧪 Tests et résultats
+Le site a été hébergé et testé pendant environ un mois.
+Les tests ont permis de valider le fonctionnement global de la solution.
+Le projet n’a pas été déployé à long terme en raison de contraintes financières,
+et non pour des raisons techniques.
+
+## 📚 Compétences développées
+- Analyse d’un problème réel
+- Conception d’une solution web adaptée
+- Développement front-end / back-end
+- Déploiement et tests d’une application web
+- Communication avec un utilisateur non technique
+
 ## 📄 Licence
 
 Ce projet est libre d'utilisation pour l'apprentissage et les projets personnels.
@@ -213,7 +239,10 @@ Pour toute question ou problème :
 3. Tester avec des données simples
 4. Vérifier les logs d'erreur
 
----
+## 👤 Auteur
+Étudiant en génie informatique (L2), orienté développement web et maintenance IT.
+
+
 
 **Bon développement ! 🎉**
 
